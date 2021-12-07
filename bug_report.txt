@@ -1,12 +1,12 @@
 bugs:
 1:
             title: mistake in the title on the main page. 
-            staps: load site.
+            steps: load site.
             ER: title is spelled correctly.
             AR: the title is misspelled.
 2:
             title: link Books is broken. 
-            staps:
+            steps:
                1: load site, 
                2: click on the link
             ER: link works.
